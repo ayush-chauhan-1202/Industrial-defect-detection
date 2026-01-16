@@ -6,5 +6,8 @@ A U-Net-based segmentation model is trained on real industrial textures (MVTec A
 The objective is to simulate challenges encountered in real industrial vision pipelines rather than achieving leaderboard performance.
 
 
-
-
+##How to Run
+pip install -r requirements.txt
+python train.py
+python evaluate.py
+python inference.py
