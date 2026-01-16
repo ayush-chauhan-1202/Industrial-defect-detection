@@ -7,8 +7,9 @@ The objective is to simulate challenges encountered in real industrial vision pi
 
 
 ## How to Run
-``bash 
+```bash 
 pip install -r requirements.txt
 python train.py
 python evaluate.py
 python inference.py
+
